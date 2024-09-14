@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+#word-search-container {
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+canvas {
+    border: 2px solid #333;
+}
+
+#word-list {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+}
